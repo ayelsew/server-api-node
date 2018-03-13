@@ -62,3 +62,7 @@
 <p><a href="http://expressjs.com/pt-br/starter/hello-world.html">ExpressJS</a></p>
 <p><a href="https://github.com/expressjs/cors#usage">Cors</a></p>
 <p><a href="https://www.npmjs.com/package/express-mongo-db">Express-mongo-db</a></p>
+<p><a href="https://www.npmjs.com/package/body-parser-json">Body Parser</a></p>
+<p><a href="https://zellwk.com/blog/crud-express-mongodb/">CRUD express mongodb</a></p>
+<p><a href="http://mongodb.github.io/node-mongodb-native/2.2/api/Collection.html#updateOne">Node mongodb native</a></p>
+<p><a href="https://docs.mongodb.com/manual/crud/">CRUD mongodb</a></p>

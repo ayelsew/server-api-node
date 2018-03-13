@@ -1,0 +1,31 @@
+{
+  "name": "server-api",
+  "version": "1.0.0",
+  "description": "Servidor de API com express, cors, mongodb",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wesleyBU/server-api-node.git"
+  },
+  "keywords": [
+    "node",
+    "mongodb",
+    "javascript"
+  ],
+  "author": "wesleyBU",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wesleyBU/server-api-node/issues"
+  },
+  "homepage": "https://github.com/wesleyBU/server-api-node#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "express-mongo-db": "^2.0.4"
+  }
+}

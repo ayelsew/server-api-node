@@ -23,7 +23,10 @@
   },
   "homepage": "https://github.com/wesleyBU/server-api-node#readme",
   "dependencies": {
+<<<<<<< HEAD
     "body-parser": "^1.18.2",
+=======
+>>>>>>> db1dbf2f8b1ffcbf666e6571f2e3b65e5dd71fbe
     "cors": "^2.8.4",
     "express": "^4.16.3",
     "express-mongo-db": "^2.0.4"
